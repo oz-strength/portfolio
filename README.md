@@ -1,10 +1,11 @@
 # 오승우 포트폴리오
->캐치 프레이즈
+>학습한 내용을 바탕으로 미니 프로젝트를 진행합니다.
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요.
+학습하며 성장하는 개발자 오승우 입니다. 🖐️
 
 </br>
 
@@ -15,16 +16,15 @@
 
 </br>
 
-예시)
 ## :pushpin: Projects
-### 1. [exampleProject](https://github.com/oz-strength/exampleProject)
->example 서비스 (개인 프로젝트)  
->개발 기간: 2025.03.15 ~ 2025.03.25  
+### 1. [Recommendation-Service](https://github.com/oz-strength/Recommendation-Service)
+>관광지 길찾기 서비스 (개인 프로젝트)  
+>개발 기간: 2025.08.07 ~ 2025.08.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Spring Boot / Gradle / Spring Data JPA  
+>MariaDB / Docker / Thymeleaf / AWS EC2  
 >  
->[프로젝트 상세 설명](https://github.com/oz-strength/exampleProject) 참고
+>[프로젝트 상세 설명](https://github.com/oz-strength/Recommendation-Service) 참고
 
 ---
